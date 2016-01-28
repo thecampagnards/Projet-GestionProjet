@@ -1,11 +1,11 @@
 <?php
 
-if(isset($_GET['page'])){
-	if(empty($_GET['page'] == 'home')){
+if(isset($_GET['page']) && !empty($_GET['page'])){
+	if($_GET['page'] == 'home'){
 		//home
 		require 'controleurs/home.php';
 	}
-	elseif(empty($_GET['page'] == 'jeu')){
+	elseif($_GET['page'] == 'jeu'){
 		//jeu
 		require 'controleurs/jeu.php';
 	}else{
