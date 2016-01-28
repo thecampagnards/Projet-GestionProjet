@@ -19,6 +19,8 @@
   <body>
     <h1>Hello, world!</h1>
 
+    <?php require 'routes.php' ?>
+
     <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
     <!-- Bootstrap -->
