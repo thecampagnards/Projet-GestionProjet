@@ -8,11 +8,13 @@
 	"commentaires": [{
 		"pseudo": "test",
 		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet"
+		"commentaire": "tetetettetetetetetetetetetetetetet",
+		"date": "12/01/2003"
 	}, {
 		"pseudo": "test",
 		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet"
+		"commentaire": "tetetettetetetetetetetetetetetetet",
+		"date": "12/01/2003"
 	}]
 }, {
 	"titre": "Test",
@@ -24,6 +26,7 @@
 	"commentaires": [{
 		"pseudo": "test",
 		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet"
+		"commentaire": "tetetettetetetetetetetetetetetetet",
+		"date": "12/01/2003"
 	}]
 }]
