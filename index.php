@@ -33,7 +33,6 @@
           <ul class="nav navbar-nav">
             <li><a href="./">Accueil</a></li>
             <li><a href="jeux">Jeux</a></li>
-            <li><a href="contact">Contact</a></li>
           </ul>
         </div>
       </div>
