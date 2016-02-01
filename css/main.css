@@ -56,6 +56,8 @@ body {
 }
 h1{
 	margin-bottom: 5px;
+	margin-top: 15px;
+	font-size: 35px;
 }
 h2 {
 	margin-top: 0px;
@@ -96,12 +98,12 @@ footer {
 }
 .jeu .infos-article{
 	text-align: right;
-	padding-top: 37px;
+	padding-top: 30px;
 	font-family: 'Myriad-Pro';
 }
 .jeu .col-md-12 img{
 	width: 100%;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 .jeu .col-md-12 p{
 	color: #fff;
