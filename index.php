@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Projet Gestion de Projet</title>
+    <link rel="SHORTCUT ICON" href="img/favicon.png"/>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -18,6 +19,7 @@
   </head>
   <body>
   <div id="header">
+    <img src="img/banniere.png" alt="bannière"/>
   </div>
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container-fluid">
