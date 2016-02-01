@@ -4,13 +4,8 @@
 		<div class="col-md-8">
 			<h1><?php echo $jeux[$i]->titre ?></h1>
 		</div> 
-<<<<<<< HEAD
 		<div class="col-md-6 infos-article">
 			par <b><a href="team#<?php echo strtolower($jeux[$i]->auteur) ?>"><?php echo $jeux[$i]->auteur ?></a></b> le <b><?php echo $jeux[$i]->date ?></b>
-=======
-		<div class="col-md-4 infos-article">
-			par <b><?php echo $jeux[$i]->auteur ?></b> le <b><?php echo $jeux[$i]->date ?></b>
->>>>>>> f4a5048aa63840fd7238cfe66e37248d5d9ebab6
 		</div> 
 	</div>
 
@@ -67,11 +62,7 @@
 						</article>
 						<hr/>
 					<?php endfor; ?>
-<<<<<<< HEAD
 					<form action="#<?php echo $i ?>" method="post" accept-charset="utf-8">
-=======
-					<form action="#<?php echo $i ?>" method="post" accept-charset="utf-8" style="background-color:green">
->>>>>>> f4a5048aa63840fd7238cfe66e37248d5d9ebab6
 						<input type="hidden" name="id" value="<?php echo $i ?>" required>
 						<div class="form-group">
 							<label for="pseudo">Pseudo:</label>
