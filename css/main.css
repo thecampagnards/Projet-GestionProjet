@@ -54,10 +54,27 @@ body {
 	color: #fff;
 	font-family: 'Myriad-Pro';
 }
+h1{
+	margin-bottom: 5px;
+}
 h2 {
 	margin-top: 0px;
 	font-family: 'Bassically Serif', 'Myriad-Pro', Arial;
 	color: #fff;
+}
+hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+/* Footer */
+footer {
+	background-color: #55a2ac;
+	text-align: center;
+	padding: 8px;
+	font-size: 18px;
+	margin-top: 15px;
 }
 
 /* Jeu */
@@ -79,12 +96,11 @@ h2 {
 }
 .jeu .infos-article{
 	text-align: right;
-	padding-top: 30px;
+	padding-top: 37px;
 	font-family: 'Myriad-Pro';
 }
 .jeu .col-md-12 img{
 	width: 100%;
-	max-height: 450px;
 	margin-bottom: 20px;
 }
 .jeu .col-md-12 p{
@@ -120,7 +136,7 @@ h2 {
 .btn-collapse{
 	color: #fff;
 	font-family: 'Myriad-Pro';
-	font-size: 20px;
+	font-size: 18px;
     text-decoration: none!important;
 }
 .btn-collapse:hover{

@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Projet Gestion de Projet</title>
+    <title>DEK Games</title>
     <link rel="SHORTCUT ICON" href="img/favicon.png"/>
 
     <!-- Bootstrap -->
@@ -45,7 +45,7 @@
     <?php require 'routes.php' ?>
 
     <footer>
-      
+      DEK Games - Copyright ISEN 2016
     </footer>
 
     <!-- jQuery -->
