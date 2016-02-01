@@ -11,7 +11,6 @@ if(isset($_GET['page']) && !empty($_GET['page'])){
 	}else{
 		//404
 		require 'controleurs/404.php';
-
 	}
 }
 else{
