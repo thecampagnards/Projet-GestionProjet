@@ -1,13 +1,4 @@
 [{
-	"titre": "League of Legends",
-	"note": "5",
-	"date": "01\/02\/2016",
-	"description": "<p></b>Editeur(s) / Développeur(s) :</b> Riot Games</p><p><b>Description :</b> League of Legends est un jeu de stratégie aux influences jeu de rôle inspiré du mod DotA (Defense of the Ancients) de Warcraft III, et d'ailleurs développé par les mêmes personnes. Il s'agit d'un jeu de stratégie présentant plusieurs héros (assassins, mages ou encore créatures du néant...) que vous devrez protéger pour décrocher la victoire dans un univers fantastique coloré.<br/><br/><div class=\"embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vzHrjOMfHPY\" frameborder=\"0\" allowfullscreen></iframe></div></p><p></b>Notre test :</b> </p><p></b>Nos astuces :</b> </p>",
-	"image": "img\/lol.jpg",
-	"auteur": "Konstantin",
-	"tags": ["MOBA","Riot"],
-	"commentaires": []
-}, {
 	"titre": "The Binding of Isaac : Rebirth",
 	"description": "<p></b>Editeur(s) / Développeur(s) :</b>  Nicalis</p><p><b>Description :</b>  The Binding of Isaac : Rebirth sur PC est la refonte de The Binding of Isaac. Le titre reprend le jeu initial et son add-on en y ajoutant au passage pas mal de contenu. Nouveau moteur graphique, intégration du co-op, système de sauvegarde et ajout du mode Hard sont au programme de cette refonte.</p><p></b>Notre test :</b> </p><p></b>Nos astuces :</b> </p>",
 	"image": "img\/isaac.jpg",
@@ -24,5 +15,14 @@
 	"date": "30\/01\/2016",
 	"note": "5",
 	"tags": ["TDC", "Warcraft"],
+	"commentaires": []
+}, {
+	"titre": "League of Legends",
+	"note": "4",
+	"date": "01\/02\/2016",
+	"description": "<p></b>Editeur(s) / Développeur(s) :</b> Riot Games</p><p><b>Description :</b> League of Legends est un jeu de stratégie aux influences jeu de rôle inspiré du mod DotA (Defense of the Ancients) de Warcraft III, et d'ailleurs développé par les mêmes personnes. Il s'agit d'un jeu de stratégie présentant plusieurs héros (assassins, mages ou encore créatures du néant...) que vous devrez protéger pour décrocher la victoire dans un univers fantastique coloré.<br/><br/><div class=\"embed-responsive embed-responsive-16by9\"><iframe class=\"embed-responsive-item\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vzHrjOMfHPY\" frameborder=\"0\" allowfullscreen></iframe></div></p><p></b>Notre test :</b> </p><p></b>Nos astuces :</b> </p>",
+	"image": "img\/lol.jpg",
+	"auteur": "Konstantin",
+	"tags": ["MOBA","Riot"],
 	"commentaires": []
 }]
