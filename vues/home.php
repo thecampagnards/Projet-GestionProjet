@@ -1,5 +1,5 @@
 <div class="team container-fluid">
-	<div class="personne row">
+	<div class="personne row" id="david">
 		<div class="col-md-12">
 			<div class="row">
 				<div class="gauche col-md-3">
@@ -25,7 +25,7 @@
 		</div>
 	</div>
 
-	<div class="personne row">
+	<div class="personne row" id="evan">
 		<div class="col-md-12">
 			<div class="row">
 				<div class="gauche col-md-3">
@@ -51,7 +51,7 @@
 		</div>
 	</div>
 
-	<div class="personne row">
+	<div class="personne row" id="konstantin">
 		<div class="col-md-12">
 			<div class="row">
 				<div class="gauche col-md-3">
