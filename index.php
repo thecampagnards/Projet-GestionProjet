@@ -35,8 +35,8 @@
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li><a href="./">Jeux</a></li>
-            <li><a href="team">L'équipe</a></li>
+            <li><a href="./">Les Jeux</a></li>
+            <li><a href="team">L' Equipe</a></li>
           </ul>
         </div>
       </div>
