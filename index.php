@@ -5,9 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Projet Gestion de Projet</title>
+    <link rel="SHORTCUT ICON" href="img/favicon.png"/>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Fontawesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
     <!-- Main -->
     <link href="css/main.css" rel="stylesheet">
 
@@ -18,6 +21,7 @@
   </head>
   <body>
   <div id="header">
+    <img src="img/banniere.png" alt="bannière"/>
   </div>
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container-fluid">
@@ -31,8 +35,8 @@
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li><a href="./">Accueil</a></li>
-            <li><a href="jeux">Jeux</a></li>
+            <li><a href="./">Les Jeux</a></li>
+            <li><a href="team">L' Equipe</a></li>
           </ul>
         </div>
       </div>
