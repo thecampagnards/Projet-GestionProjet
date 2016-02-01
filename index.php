@@ -9,6 +9,8 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- StarRating -->
+    <link href="css/star-rating.min.css" media="all" rel="stylesheet" type="text/css" />
     <!-- Fontawesome -->
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <!-- Main -->
@@ -36,7 +38,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li><a href="./">Les Jeux</a></li>
-            <li><a href="team">L' Equipe</a></li>
+            <li><a href="team">L'Équipe</a></li>
           </ul>
         </div>
       </div>
@@ -52,6 +54,9 @@
     <script src="js/jquery.min.js"></script>
     <!-- Bootstrap -->
     <script src="js/bootstrap.min.js"></script>
+    <!-- StarRating -->
+    <script src="js/star-rating.min.js" type="text/javascript"></script>
+    <script src="js/star-rating_locale_fr.js" type="text/javascript"></script>
     <!-- Main -->
     <script src="js/main.js"></script>
   </body>

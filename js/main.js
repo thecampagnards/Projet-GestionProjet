@@ -22,3 +22,9 @@ $('.btn-collapse ').click(function(){
         $(this).children('span').removeClass( 'glyphicon-chevron-up' );
     }
 });
+
+//boostrap-rating
+$(".rating").rating({
+    showCaption:false,
+    showClear: false
+});
