@@ -4,7 +4,7 @@
 		<div class="col-md-8">
 			<h1><?php echo $jeux[$i]->titre ?></h1>
 		</div> 
-		<div class="col-md-6 infos-article">
+		<div class="col-md-4 infos-article">
 			par <b><a href="team#<?php echo strtolower($jeux[$i]->auteur) ?>"><?php echo $jeux[$i]->auteur ?></a></b> le <b><?php echo $jeux[$i]->date ?></b>
 		</div> 
 	</div>
