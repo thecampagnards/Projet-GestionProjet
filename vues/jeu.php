@@ -1,9 +1,8 @@
 <div class="container-fluid">
 	<div class="row">
-		<?php $i = 0; ?>
 		<!-- premier jeu -->
 		<div class="col-md-12">
-			<?php include 'vues/jeu-article.php' ?>
+			<?php $i = 0; include 'vues/jeu-article.php' ?>
 		</div>
 		<!-- colonne de gauche -->
 		<div class="col-md-6">
