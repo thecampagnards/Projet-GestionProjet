@@ -60,6 +60,129 @@
 }
 
 /* Jeu */
+.container-jeu{
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 70px;
+}
 .jeu{
-	
+	background-color: #55a2ac;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.jeu .col-md-6{
+	color: #fff;
+	font-family: 'Bassically Serif';
+}
+.jeu .infos-article{
+	text-align: right;
+	padding-top: 30px;
+	font-family: 'Myriad-Pro';
+}
+.jeu .col-md-12 img{
+	width: 100%;
+	max-height: 450px;
+	margin-bottom: 20px;
+}
+.jeu .col-md-12 p{
+	color: #fff;
+	font-family: 'Myriad-Pro';
+	font-size: 20px;
+}
+.glyphicon-star, .glyphicon-star-empty{
+	color: #fff;
+	font-size: 22px;
+}
+
+	.col-note{
+		text-align: center;
+	}
+	.col-tags{
+		text-align: center;
+	}
+	.col-commentaires{
+		text-align: center;
+	}
+@media (min-width: 990px) {
+	.col-note{
+		text-align: center;
+	}
+	.col-tags{
+		text-align: left;
+	}
+	.col-commentaires{
+		text-align: right;
+	}
+}
+.btn-collapse{
+	color: #fff;
+	font-family: 'Myriad-Pro';
+	font-size: 20px;
+    text-decoration: none!important;
+}
+.btn-collapse:hover{
+	color: #5b7076;
+}
+.glyphicon-chevron-down,.glyphicon-chevron-up{
+	top:4px;
+}
+.tags {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; 
+  padding: 0;
+}
+
+.tags li {
+  float: left; 
+}
+
+.tag {
+  background: #fff;
+  border-radius: 3px 0 0 3px;
+  color: #55a2ac;
+  font-family: 'Myriad-Pro';
+  display: inline-block;
+  height: 26px;
+  line-height: 28px;
+  padding: 0 20px 0 23px;
+  position: relative;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+}
+
+.tag::before {
+  background: #55a2ac;
+  border-radius: 10px;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+  content: '';
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  width: 6px;
+  top: 10px;
+}
+
+.tag::after {
+  background: #55a2ac;
+  border-bottom: 13px solid transparent;
+  border-left: 10px solid #fff;
+  border-top: 13px solid transparent;
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.tag:hover {
+  background-color: #5b7076;
+  text-decoration: none;
+  color: white;
+}
+
+.tag:hover::after {
+   border-left-color: #5b7076; 
 }

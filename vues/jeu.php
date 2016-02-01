@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container-fluid container-jeu">
 	<div class="row">
 		<!-- premier jeu -->
 		<div class="col-md-12">
