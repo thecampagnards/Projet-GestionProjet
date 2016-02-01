@@ -28,7 +28,7 @@ nav.navbar-default button.navbar-toggle>.icon-bar {
 }
 .navbar-collapse .navbar-nav li a,.navbar-collapse .navbar-nav li:hover a{
 	color: #fff;
-	font-family: 'Bassically Serif';
+	font-family: 'Myriad-Pro', 'Bassically Serif';
 	font-size: 20px;
 }
 .navbar-collapse .navbar-nav li:hover{
@@ -81,7 +81,7 @@ footer {
 .container-jeu{
 	padding-left: 100px;
 	padding-right: 100px;
-	padding-top: 70px;
+	padding-top: 30px;
 }
 .jeu{
 	background-color: #55a2ac;

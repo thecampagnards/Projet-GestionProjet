@@ -12,7 +12,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<img src="<?php echo $jeux[$i]->image ?>" alt="image du jeu">
-			<p><?php echo $jeux[$i]->description ?></p>
+			<?php echo $jeux[$i]->description ?>
 			<hr/>
 		</div>
 	</div>
