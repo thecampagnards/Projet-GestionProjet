@@ -1,151 +1,28 @@
 [{
-	"titre": "Test",
+	"titre": "League of Legends",
 	"note": "5",
-    "date":"12/10/20015",
-	"description": "Teststststststtstststststststs",
-	"image": "img\/header.jpg",
-	"video": "http:\/\/test.fr",
+	"date": "01\/02\/2016",
+	"description": "<p></b>Editeur(s) / Développeur(s) :</b> Riot Games</p><p><b>Description :</b> League of Legends est un jeu de stratégie aux influences jeu de rôle inspiré du mod DotA (Defense of the Ancients) de Warcraft III, et d'ailleurs développé par les mêmes personnes. Il s'agit d'un jeu de stratégie présentant plusieurs héros (assassins, mages ou encore créatures du néant...) que vous devrez protéger pour décrocher la victoire dans un univers fantastique coloré.<br/><br/><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vzHrjOMfHPY\" frameborder=\"0\" allowfullscreen></iframe></p><p></b>Notre test :</b> </p><p></b>Nos astuces :</b> </p>",
+	"image": "img\/lol.jpg",
 	"auteur": "Konstantin",
-	"tags": ["test", "Konstantin"],
-	"commentaires": [{
-		"pseudo": "test",
-		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet",
-		"date": "12\/01\/2003"
-	}, {
-		"pseudo": "test",
-		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet",
-		"date": "12\/01\/2003"
-	}, {
-		"pseudo": "test",
-		"note": "1",
-		"commentaire": "sdf",
-		"date": "31\/01\/16"
-	}, {
-		"pseudo": "test",
-		"note": "1",
-		"commentaire": "sdf",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "yolo",
-		"note": "10",
-		"commentaire": "tetetet",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "test",
-		"note": "0",
-		"commentaire": "hcjhjk",
-		"date": "01\/02\/2016"
-	}]
+	"tags": ["MOBA"],
+	"commentaires": []
 }, {
-	"titre": "Test",
-	"description": "Teststststststtstststststststs",
-	"image": "img\/test1.png",
-	"video": "http:\/\/test.fr",
-	"auteur": "Konstantin",
-  	"date":"12/10/20015",
+	"titre": "The Binding of Isaac : Rebirth",
+	"description": "<p></b>Editeur(s) / Développeur(s) :</b>  Nicalis</p><p><b>Description :</b>  The Binding of Isaac : Rebirth sur PC est la refonte de The Binding of Isaac. Le titre reprend le jeu initial et son add-on en y ajoutant au passage pas mal de contenu. Nouveau moteur graphique, intégration du co-op, système de sauvegarde et ajout du mode Hard sont au programme de cette refonte.</p><p></b>Notre test :</b> </p><p></b>Nos astuces :</b> </p>",
+	"image": "img\/isaac.jpg",
+	"auteur": "Evan",
+	"date": "31\/01\/2016",
 	"note": "5",
-	"tags": ["test", "Konstantin"],
-	"commentaires": [{
-		"pseudo": "test",
-		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet",
-		"date": "12\/01\/2003"
-	}, {
-		"pseudo": "test",
-		"note": "0",
-		"commentaire": "sqdqs",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "sd",
-		"note": "0",
-		"commentaire": "ds",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "ze",
-		"note": "0",
-		"commentaire": "dsfgh",
-		"date": "01\/02\/2016"
-	}]
+	"tags": ["Zelda Like"],
+	"commentaires": []
 }, {
-	"titre": "Test",
-	"description": "Teststststststtstststststststs",
-	"image": "img\/test1.png",
-	"video": "http:\/\/test.fr",
-	"auteur": "Konstantin",
-	"note": "4",
-	"date": "12/10/20015",
-	"tags": ["test", "Konstantin"],
-	"commentaires": [{
-		"pseudo": "test",
-		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet",
-		"date": "12\/01\/2003"
-	}, {
-		"pseudo": "test",
-		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet",
-		"date": "12\/01\/2003"
-	}, {
-		"pseudo": "test",
-		"note": "1",
-		"commentaire": "sdf",
-		"date": "31\/01\/16"
-	}, {
-		"pseudo": "test",
-		"note": "1",
-		"commentaire": "sdf",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "yolo",
-		"note": "10",
-		"commentaire": "tetetet",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "polo ",
-		"note": "0",
-		"commentaire": "polo yolo",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "fdsghjk",
-		"note": "0",
-		"commentaire": "fghjklm\u00f9jvhcg",
-		"date": "01\/02\/2016"
-	}]
-}, {
-	"titre": "Test",
-	"description": "Teststststststtstststststststs",
-	"image": "img\/test1.png",
-	"video": "http:\/\/test.fr",
-	"auteur": "Konstantin",
-	"date": "12/10/20015",
+	"titre": "HearthStone : Heroes of Warcraft",
+	"description": "<p></b>Editeur(s) / Développeur(s) :</b> Blizzard Entertainment</p><p><b>Description :</b> HearthStone : Heroes of Warcraft est un jeu de cartes à collectionner gratuit sur PC, basé sur l'univers Warcraft et World of Warcraft. Incarnez l'une des neuf classes du jeu, créez vos decks composés d'armes, de sorts et de serviteurs et affrontez l'IA ou des joueurs en ligne pour atteindre le rang Légende !</p><p></b>Notre test :</b> </p><p></b>Nos astuces :</b> </p>",
+	"image": "img\/hs.jpg",
+	"auteur": "David",
+	"date": "30\/01\/2016",
 	"note": "5",
-	"tags": ["test", "Konstantin"],
-	"commentaires": [{
-		"pseudo": "test",
-		"note": "test",
-		"commentaire": "tetetettetetetetetetetetetetetetet",
-		"date": "12\/01\/2003"
-	}, {
-		"pseudo": "test",
-		"note": "0",
-		"commentaire": "sqdqs",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "sd",
-		"note": "0",
-		"commentaire": "ds",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "gdfgdg",
-		"note": "8",
-		"commentaire": "sfddsfsdf",
-		"date": "31\/01\/2016"
-	}, {
-		"pseudo": "gdfgdg",
-		"note": "8",
-		"commentaire": "sfddsfsdf",
-		"date": "31\/01\/2016"
-	}]
+	"tags": ["TDC", "Warcraft"],
+	"commentaires": []
 }]
