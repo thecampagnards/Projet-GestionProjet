@@ -187,7 +187,19 @@ h2 {
 .tag:hover::after {
    border-left-color: #5b7076; 	
 }
-
+.collapse-commentaire, .collapse-commentaire .well{
+  background-color: #55a2ac;
+  border: 0;
+}
+.commentaire-infos{
+	font-style: italic;
+}
+.commentaire-infos{
+	font-size:14px; 
+}
+.infos-article b a{
+	color: #fff;
+}
 
 /* Team */
 div.personne {
