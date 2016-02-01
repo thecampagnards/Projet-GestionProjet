@@ -9,6 +9,8 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Fontawesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
     <!-- Main -->
     <link href="css/main.css" rel="stylesheet">
 

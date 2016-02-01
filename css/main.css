@@ -52,6 +52,7 @@ nav.navbar-default button.navbar-toggle>.icon-bar {
 /* Global */
 body {
 	color: #fff;
+	font-family: 'Myriad-Pro';
 }
 h2 {
 	margin-top: 0px;
@@ -82,13 +83,20 @@ div.personne .gauche a {
 	padding: 10px 15px;
 	margin-top: 15px;
 }
+div.personne .gauche a:hover {
+	text-decoration: none;
+	background-color: #efefef;
+}
 div.personne .gauche img {
 	width: 100%;
 }
 
+div.personne .droite {
+	height: 100%;
+}
 div.personne .droite .citation {
 	font-style: italic;
-	font-size: 30px;
+	font-size: 32px;
 	padding-top: 35px;
 }
 div.personne .droite .citation:before {
@@ -98,9 +106,11 @@ div.personne .droite .citation:after {
 	content: " \"";
 }
 div.personne .droite .description {
-	font-size: 16px;
+	font-size: 17px;
 }
 div.personne .droite .liens {
 	border-top: 1px solid #fff;
-	margin-top: 20px;
+	margin-top: 25px;
+	padding-top: 10px;
+	font-size: 18px;
 }
