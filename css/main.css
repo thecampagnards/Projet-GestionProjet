@@ -1,3 +1,45 @@
+/* Fonts */
+@font-face {
+    font-family: "Bassically Serif";
+    src: url('../fonts/Bassically-Serif.ttf');
+}
+@font-face {
+    font-family: "Myriad-Pro";
+    src: url('../fonts/Myriad-Pro.otf');
+}
+
+/* NavBar */
+@media (min-width: 768px) {
+	.navbar-nav {
+	  width: 100%;
+	  text-align: center;
+	}
+	.navbar-nav > li {
+	  float: none;
+	  display: inline-block;
+	}
+}
+.navbar{
+	background-color: #55A2AC;
+	border:none;
+}
+.navbar-collapse .navbar-nav li a,.navbar-collapse .navbar-nav li:hover a{
+	color: #fff;
+	font-family: 'Bassically Serif';
+}
+.navbar-collapse .navbar-nav li:hover{
+	background-color: #3B7076;
+}
+
+
+
+
+
+
+
+
+
+
 .jeu{
 	background-color: #f5f5f5;
 }
@@ -20,3 +62,4 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+
