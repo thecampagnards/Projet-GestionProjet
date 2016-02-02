@@ -9,16 +9,16 @@ $("ul.nav li").each(function(index, el) {
 });
 
 //apres un ajout de commentaire pour ouvrir la collapse du commentaire
-$("#collapse"+window.location.hash.replace("#", "")).addClass("in");
+$("#collapse"+window.location.hash.replace("#","")).addClass("in");
 
 //bouton collapse
 $(".btn-collapse").click(function(){
-    if ( $(this).children("span").hasClass("glyphicon-chevron-down") ) {
-        $(this).children("span").addClass( "glyphicon-chevron-up" );
-        $(this).children("span").removeClass( "glyphicon-chevron-down" );
-    } else {
-        $(this).children("span").addClass( "glyphicon-chevron-down" );
-        $(this).children("span").removeClass( "glyphicon-chevron-up" );
+    if($(this).children("span").hasClass("glyphicon-chevron-down")){
+        $(this).children("span").addClass( "glyphicon-chevron-up");
+        $(this).children("span").removeClass( "glyphicon-chevron-down");
+    }else{
+        $(this).children("span").addClass( "glyphicon-chevron-down");
+        $(this).children("span").removeClass( "glyphicon-chevron-up");
     }
 });
 
