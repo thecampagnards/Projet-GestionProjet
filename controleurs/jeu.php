@@ -14,5 +14,7 @@ if(!empty($_POST)){
 		//ecriture du fichier
 		file_put_contents('data/jeu.json', json_encode($jeux));
 	}
+	//empecher le renvoi de form
+	unset($_POST);
 }
 require 'vues/jeu.php';
