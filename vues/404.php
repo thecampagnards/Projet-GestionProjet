@@ -1,1 +1,1 @@
-404
+<h2 class="notfound">Il n' y a rien ici !</h2>

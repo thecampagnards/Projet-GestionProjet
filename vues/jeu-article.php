@@ -80,7 +80,7 @@
 							<div class="col-md-5 note">
 								<div class="form-group">
 									<label for="note">Note :</label>
-									<input type="number" class="rating" name="note" id="note" min=1 max=5 step=1 data-size="xs" data-rtl="false" data-required="true" required>
+									<input type="number" class="rating" name="note" id="note" min=0 max=5 step=1 data-size="xs" data-rtl="false" data-required="true" required>
 								</div>
 							</div>
 							<div class="col-md-3 submit">

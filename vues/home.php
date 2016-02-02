@@ -10,7 +10,7 @@
 
 				<div class="droite col-md-9">
 					<div class="citation">
-						T’as baisé ma femme, j’ai baisé ma femme, allez on est quitte.
+						Moi je pense plutôt que vous savez que vous en savez plus que vous ne savez.
 					</div>
 					<div class="description">
 						BONJOUR ! Je suis étudiant à l'ISEN Brest, une école d'ingénieurs. 

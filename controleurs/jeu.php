@@ -16,5 +16,6 @@ if(!empty($_POST)){
 	}
 	//empecher le renvoi de form
 	unset($_POST);
+
 }
 require 'vues/jeu.php';

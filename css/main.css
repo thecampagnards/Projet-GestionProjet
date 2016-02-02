@@ -69,7 +69,10 @@ hr {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-
+h2.notfound {
+	color: #55a2ac;
+	margin: 50px;
+}
 
 /* Footer */
 footer {
