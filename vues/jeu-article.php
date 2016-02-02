@@ -63,20 +63,31 @@
 						<hr/>
 					<?php endfor; ?>
 					<form action="#<?php echo $i ?>" method="post" accept-charset="utf-8">
-						<input type="hidden" name="id" value="<?php echo $i ?>" required>
-						<div class="form-group">
-							<label for="pseudo">Pseudo:</label>
-							<input class="form-control" type="text" name="pseudo" id="pseudo" value="" placeholder="Pseudo" required>
+						<div class="row">
+							<div class="col-md-12">
+								<input type="hidden" name="id" value="<?php echo $i ?>" required>
+								<div class="form-group">
+									<textarea class="form-control" name="commentaire" id="commentaire" placeholder="Commentaire" required></textarea>
+								</div>
+							</div>
 						</div>
-						<div class="form-group">
-							<label for="note">Note:</label>
-							<input type="number" class="rating" name="note" id="note" min=1 max=5 step=1 data-size="xs" data-rtl="false" data-required="true" required>
+						<div class="row">
+							<div class="col-md-4 pseudo">
+								<div class="form-group">
+									<input class="form-control" type="text" name="pseudo" id="pseudo" value="" placeholder="Pseudo" required>
+								</div>
+							</div>
+							<div class="col-md-5 note">
+								<div class="form-group">
+									<label for="note">Note :</label>
+									<input type="number" class="rating" name="note" id="note" min=1 max=5 step=1 data-size="xs" data-rtl="false" data-required="true" required>
+								</div>
+							</div>
+							<div class="col-md-3 submit">
+								<button type="submit" class="btn btn-default"><i class="fa fa-send"></i> Commenter</button>
+							</div>
+
 						</div>
-						<div class="form-group">
-							<label for="commentaire">Commentaire:</label>
-							<textarea class="form-control" name="commentaire" id="commentaire" placeholder="Commentaire" required></textarea>
-						</div>
-						<button type="submit" class="btn btn-default">Commenter</button>
 					</form>
 				</div>
 			</div>
