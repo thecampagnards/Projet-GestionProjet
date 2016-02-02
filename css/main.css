@@ -23,7 +23,7 @@
 	background-color: #55A2AC;
 	border:none;
 }
-nav.navbar-default button.navbar-toggle>.icon-bar {
+.navbar-default button.navbar-toggle>.icon-bar {
 	background-color: #fff;
 }
 .navbar-collapse .navbar-nav li a,.navbar-collapse .navbar-nav li:hover a{
@@ -60,7 +60,7 @@ h1{
 	font-size: 35px;
 }
 h2 {
-	margin-top: 0px;
+	margin-top: 0;
 	font-family: 'Bassically Serif', 'Myriad-Pro', Arial;
 	color: #fff;
 }
@@ -171,6 +171,7 @@ footer {
   margin: 0 10px 10px 0;
   text-decoration: none;
   -webkit-transition: color 0.2s;
+  -moz-transition: color 0.2s;
 }
 
 .tag::before {
