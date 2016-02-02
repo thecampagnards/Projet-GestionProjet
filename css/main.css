@@ -175,6 +175,7 @@ footer {
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
+  -o-transition: color 0.2s;
   -moz-transition: color 0.2s;
   -webkit-transition: color 0.2s;
 }
