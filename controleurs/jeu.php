@@ -1,7 +1,4 @@
 <?php
-
-require 'inc/fonctions.php';
-
 //recuperation des jeux
 $jeux = json_decode(file_get_contents('data/jeu.json'));
 
@@ -18,5 +15,4 @@ if(!empty($_POST)){
 		file_put_contents('data/jeu.json', json_encode($jeux));
 	}
 }
-
 require 'vues/jeu.php';
