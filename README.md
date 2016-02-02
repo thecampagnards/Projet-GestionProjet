@@ -7,7 +7,7 @@ Projet de création d'un site pour la gestion de projet. Le site doit contenir u
 
 ##Installation
 
-Donner les droits ``` www-data ``` au dossier Projet-GestionProget en effctuant la commande suivante : ``` sudo chown -R www-data:www-data Projet-GestionProjet ```.
+Donner les droits ``` www-data ``` au dossier Projet-GestionProget en effectuant la commande suivante : ``` sudo chown -R www-data:www-data Projet-GestionProjet ```.
 
 ##Administration
 
