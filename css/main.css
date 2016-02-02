@@ -139,10 +139,14 @@ footer {
 	color: #fff;
 	font-family: 'Myriad-Pro';
 	font-size: 18px;
-    text-decoration: none!important;
+    text-decoration: none;
+}
+.btn-collapse:focus{
+    text-decoration: none;
 }
 .btn-collapse:hover{
 	color: #5b7076;
+	text-decoration: none;
 }
 .glyphicon-chevron-down,.glyphicon-chevron-up{
 	top:4px;
@@ -164,9 +168,9 @@ footer {
   color: #55a2ac;
   font-family: 'Myriad-Pro';
   display: inline-block;
-  height: 26px;
   line-height: 28px;
   padding: 0 20px 0 23px;
+  height: 26px;
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
