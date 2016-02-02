@@ -23,7 +23,7 @@
 	background-color: #55A2AC;
 	border:none;
 }
-.navbar-default .navbar-toggle>.icon-bar {
+.navbar-default .icon-bar {
 	background-color: #fff;
 }
 .navbar-collapse .navbar-nav li a,.navbar-collapse .navbar-nav li:hover a{
@@ -63,6 +63,7 @@ h2 {
 	margin-top: 0;
 	font-family: 'Bassically Serif', 'Myriad-Pro', Arial;
 	color: #fff;
+	text-align: center;
 }
 hr {
 	margin-top: 10px;
@@ -232,6 +233,9 @@ form .note {
 form .submit {
 	text-align: right;
 }
+.well {
+	margin-bottom: 0;
+}
 
 /* Team */
 div.personne {
@@ -239,7 +243,7 @@ div.personne {
 	margin: 60px 12%;
 	padding: 20px;
 }
-div.personne .gauche img, div.personne .gauche a, div.personne .gauche h2 {
+div.personne .gauche img, div.personne .gauche a {
 	display: block;
 	text-align: center;
 }
