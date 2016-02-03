@@ -13,7 +13,7 @@
 						Moi je pense plutôt que vous savez que vous en savez plus que vous ne savez.
 					</div>
 					<div class="description">
-						BONJOUR ! Je suis étudiant à l'ISEN Brest, une école d'ingénieurs. 
+						Je suis étudiant à l'ISEN Brest, en troisième année de Cycle Informatique et Réseaux et j'effectue cette année de scolarité en alternance au Crédit Mutuel Arkéa. Je suis passionné par l'informatique et plus particulièrement par le développement web.
 					</div>
 					<div class="liens">
 						<p><i class="fa fa-globe"></i> http://delemottedavid.fr/</p>
