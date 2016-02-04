@@ -8,6 +8,10 @@
     src: url('../fonts/Myriad-Pro.OTF');
 }
 
+html{
+	min-width: 800px;
+}
+
 /* NavBar */
 @media (min-width: 768px) {
 	.navbar-nav {
