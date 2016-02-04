@@ -33,6 +33,6 @@ Vous pouvez ajouter des jeux et administrer les commentaires des jeux en éditan
 ##Maquette
 
 ###Maquette des Jeux
-![Maquette](https://github.com/thecampagnards/Projet-GestionProjet/blob/master/docs/maquettes/maquette_v6.png)
+![Maquette](https://github.com/thecampagnards/Projet-GestionProjet/blob/master/docs/maquettes/maquette_jeux.png)
 ###Maquette de l'Equipe
-![Maquette](https://github.com/thecampagnards/Projet-GestionProjet/blob/master/docs/maquettes/maquette_team_v1.png)
+![Maquette](https://github.com/thecampagnards/Projet-GestionProjet/blob/master/docs/maquettes/maquette_team.png)
