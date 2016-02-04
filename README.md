@@ -4,7 +4,8 @@
 [![Gitter Chat](http://img.shields.io/badge/chat-online-brightgreen.svg)](https://gitter.im/thecampagnards/Projet-GestionProjet)
 
 Projet de création d'un site pour la gestion de projet. Le site doit contenir une présentation de l'équipe et une présentation de jeux.
-[Voir le cahier des charges](#cdc)
+![Voir le cahier des charges.](https://github.com/thecampagnards/Projet-GestionProjet/blob/master/docs/mini-projet-CIR3-2016.pdf)
+
 
 ##Installation
 
@@ -30,8 +31,6 @@ Vous pouvez ajouter des jeux et administrer les commentaires des jeux en éditan
 	}]
 }] 
 ```
-###Cahier des Charges<a name="cdc"></a>
-![CdC](https://github.com/thecampagnards/Projet-GestionProjet/blob/master/docs/mini-projet-CIR3-2016.pdf)
 
 ##Maquette
 
