@@ -293,3 +293,6 @@ div.personne .droite .liens {
 	padding-top: 10px;
 	font-size: 18px;
 }
+.liens p a {
+	color: #fff;
+}
